@@ -164,8 +164,6 @@ button {
   transition: background-color 0.3s ease;
 }
 
-
-
 /* responsive design */
 
 @media (max-width:500px) {
